@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @andzuck
 - 👀 I’m finishing my last year of undergrad in CS.
-- 🌱 I’m currently looking to get back into coding.
-- 💞️ I’m looking to collaborate on web-based projects, libraries, etc.
 - 📫 How to reach me: azuckerman@college.harvard.edu
 
 <!---
