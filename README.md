@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andzuck
+- 👋 Hi, I’m Andrew
 - 👀 I’m finishing my last year of undergrad in CS.
 - 📫 How to reach me: azuckerman@college.harvard.edu
 
