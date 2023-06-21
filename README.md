@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Andrew
-- 👀 I’m finishing my last year of undergrad in CS.
+- 👀 I recently graduated from Harvard with a degree in CS.
+- 👨🏻‍🎤🧠😸 I'm excited about opportunities that combine my interests in consciousness research, machine learning, and creativity, and creating value for others :D
 - 📫 How to reach me: azuckerman@college.harvard.edu
 
 <!---
