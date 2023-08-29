@@ -1,6 +1,6 @@
 - Hi, I’m Andrew 👋
 - I recently graduated from Harvard with a degree in CS 👀 
-- I'm excited about opportunities that combine my interests in consciousness research, machine learning, creativity, and creating value for others 😸🧠🧞
+- I'm excited about new opportunities in full-stack software engineering + AI engineering that can create value for others 😸🧠🧞
 - How to reach me: azuckerman@college.harvard.edu 📫
 
 <!---
